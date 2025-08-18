@@ -101,17 +101,20 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
   <!-- GitHub Stats -->
   <a href="https://github.com/kazi-rahima-ahmed">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical&hide_border=true" />
-  </a>
+  </a><br/>
   <!-- Streak Stats -->
   <a href="https://github.com/kazi-rahima-ahmed">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
-  </a>
+   </a><br/>
   <!-- Top Languages -->
   <a href="https://github.com/kazi-rahima-ahmed">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rahima-ahmed&layout=compact&theme=radical&hide_border=true" />
   </a>
 </p>
 
+---
+
+> 💬 Open to collaborations, R&D roles, and meaningful AI + IoT projects — let’s build something impactful.
 
 ---
 
