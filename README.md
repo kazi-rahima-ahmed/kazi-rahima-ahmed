@@ -5,7 +5,11 @@
 
 
 <!-- Typing Intro Animation -->
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F031F7&center=true&vCenter=true&width=600&lines=Kazi+Rahima+Ahmed;AI%2FML%2FIoT+Researcher;Builder+of+Award%E2%80%91Winning+Systems;Turning+Ideas+into+Real‑World+Solutions)](https://git.io/typing-svg)
+
+</div>
 
 # 👨‍💻 Kazi Rahima Ahmed  
 
@@ -94,9 +98,20 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazi-rahima-ahmed&theme=radical" height="165" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/kazi-rahima-ahmed">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <!-- Streak Stats -->
+  <a href="https://github.com/kazi-rahima-ahmed">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
+  </a>
+  <!-- Top Languages -->
+  <a href="https://github.com/kazi-rahima-ahmed">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rahima-ahmed&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </p>
+
 
 ---
 
