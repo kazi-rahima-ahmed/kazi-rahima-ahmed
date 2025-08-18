@@ -12,6 +12,7 @@ I also enjoy technical writing, creative digital content, and participating in r
 
 ### 🎯 Current Focus
 
+*   🔭 Currently working on: Smart Irrigation System – DIU Funded
 *   📚 Learning Python for AI development
 *   🧠 Studying Machine Learning algorithms and neural network basics
 *   ⚙️ Experimenting with LangChain, OpenAI, and local LLMs
@@ -29,12 +30,17 @@ I also enjoy technical writing, creative digital content, and participating in r
 
 #### 🧠 AI & ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <!-- Placeholder, consider a more specific NLP badge if available -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-FF7F50?logo=python&logoColor=white)
+<!-- Placeholder, consider a more specific NLP badge if available -->
 
 #### 🧩 Vector DBs & Agents
 
@@ -44,20 +50,29 @@ I also enjoy technical writing, creative digital content, and participating in r
 
 #### ☁️ Cloud & Infra
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-007ACC?style=for-the-badge&logo=arduino&logoColor=white) <!-- Placeholder, consider a more specific IoT badge if available -->
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)  
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?logo=mikrotik&logoColor=white)  
+![CCNA](https://img.shields.io/badge/CCNA%20Concepts-1BA0D7?logo=cisco&logoColor=white)  
+
+<!-- Placeholder, consider a more specific IoT badge if available -->
 
 #### 💻 Dev Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Example, choose your specific SQL DB -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) 
 
 ### 📊 GitHub Stats
 
