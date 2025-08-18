@@ -73,16 +73,16 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
 
 ---
 
-## 🏆 Highlights & Recognitions  
+## 🏆 Highlights & Recognitions
 
-- **AI Olympiad Bangladesh 2025** – *2nd Runner‑Up (Tertiary Level)* | AI‑Based Admission Assistant
-- **Future DIU Funded Innovator** – AI & IoT‑based Smart Irrigation System
-- **Smart Classroom with Smart Attendance Security System** – Multiple awards:
-  - 1st Runner‑Up, Engineers’ Day Celebration 2025 | organized by the Faculty of Engineering, DIU
-  - 2nd Runner‑Up, Category: Faculty of Engineering, Central Project Showcasing 2024 | organized by the Faculty of Graduate Studies, DIU
-- **Media & Marketing Secretary** – DIU ICEC
-- **Duke of Edinburgh’s Award** – Bronze • Silver • Gold
-- **Art Competition (Senior Category)** – 1st Runner‑Up, 7th Inter School Bangla Olympiad 2018
+- **AI Olympiad Bangladesh 2025** – *2nd Runner‑Up (Tertiary Level)* | **AI‑Based Admission Assistant**  
+- **Future DIU Funded Innovator** – AI & IoT‑based **Smart Irrigation System**  
+- **Smart Classroom with Smart Attendance Security System** – *Multiple Awards*:  
+  - 🥈 **1st Runner‑Up**, Engineers’ Day Celebration 2025 — Faculty of Engineering, DIU  
+  - 🥉 **2nd Runner‑Up**, Central Project Showcasing 2024 — Faculty of Graduate Studies, DIU  
+- **Leadership** – Media & Marketing Secretary, DIU ICEC  
+- **International Awards** – Duke of Edinburgh’s Award *(Bronze • Silver • Gold)*  
+- **Creative Achievement** – 1st Runner‑Up, Art Competition *(Senior Category)*, 7th Inter School Bangla Olympiad 2018
 
 ---
 
