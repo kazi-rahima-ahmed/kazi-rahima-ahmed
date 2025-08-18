@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-I'm Kazi Rahima Ahmed, a Bangladeshi tech enthusiast and final-year Information & Communication Engineering student at DIU. I specialize in building AI-powered systems, automation projects, and IoT-based solutions that solve real-world problems. I'm dedicated to building innovative solutions that address real-world challenges, as demonstrated by my award-winning projects in smart irrigation, NLP-powered chatbots, and classroom automation. Currently, I'm actively seeking R&D or Software Engineering roles at cutting-edge tech firms where I can apply my skills and contribute to impactful AI advancements.
+I'm Kazi Rahima Ahmed, a Bangladeshi tech enthusiast and final-year Information & Communication Engineering student at Daffodil International University (DIU). I specialize in building AI-powered systems, automation projects, and IoT-based solutions that solve real-world problems. I'm dedicated to building innovative solutions that address real-world challenges, as demonstrated by my award-winning projects in smart irrigation, NLP-powered chatbots, and classroom automation. Currently, I'm actively seeking R&D or Software Engineering roles at cutting-edge tech firms where I can apply my skills and contribute to impactful AI advancements.
 
 I also enjoy technical writing, creative digital content, and participating in research-based innovation.
 
