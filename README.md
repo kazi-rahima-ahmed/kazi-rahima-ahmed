@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication Engineering student at Daffodil International University (DIU) and a Bangladeshi engineer‑in‑the‑making, passionate about creating AI‑powered, IoT‑driven systems that deliver real‑world impact. My funded and award‑winning work spans smart irrigation, NLP‑powered chatbots, and classroom security automation. I’m now seeking R&D or Software Engineering roles at forward‑thinking tech firms, where I can apply my skills to meaningful AI advancements. Beyond engineering, I enjoy technical writing, creative digital content, and research‑driven innovation. 
+Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication Engineering student at Daffodil International University (DIU) and a Bangladeshi engineer‑in‑the‑making, passionate about developing AI‑powered, IoT‑driven systems that deliver real‑world impact. My funded and award‑winning work spans smart irrigation, NLP‑powered chatbots, and classroom security automation. I’m now seeking R&D or Software Engineering roles at forward‑thinking tech firms, where I can apply my skills to meaningful AI advancements. Beyond engineering, I enjoy technical writing, creative digital content, and research‑driven innovation.
 
 ---
 
@@ -75,14 +75,15 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
 
 ## 🏆 Highlights & Recognitions  
 
-- **AI Olympiad Bangladesh 2025** – *2nd Runner‑Up (Tertiary Level)* | **AI‑Based Admission Assistant**  
-- **Future DIU Funded Innovator** – *AI & IoT‑based Smart Irrigation System*  
-- **DIU Engineering Showcase 2024** – *2nd Runner‑Up (Faculty of Engineering)* | Smart Classroom with Smart Attendance Security System  
-- **Engineers’ Day Celebration 2025** – *1st Runner‑Up (Project Showcasing)* | Smart Classroom with Smart Attendance Security System  
-- **Central Project Showcasing 2024 (DIU)** – *2nd Runner‑Up, Faculty of Engineering* | Smart Classroom with Smart Attendance Security System  
-- **Media & Marketing Secretary** – DIU ICEC (Information & Communication Engineering Club)  
-- **Duke of Edinburgh’s Award** – Bronze • Silver • Gold  
-- **Art Competition (Senior Category)** – *1st Runner‑Up*, 7th Inter School Bangla Olympiad 2018
+- **AI Olympiad Bangladesh 2025** – *2nd Runner‑Up (Tertiary Level)* | AI‑Based Admission Assistant
+- **Future DIU Funded Innovator** – AI & IoT‑based Smart Irrigation System
+- **Smart Classroom with Smart Attendance Security System** – Multiple awards:
+  - 1st Runner‑Up, Engineers’ Day 2025
+  - 2nd Runner‑Up, DIU Engineering Showcase 2024
+  - 2nd Runner‑Up, Central Project Showcasing 2024 (Faculty of Engineering)
+- **Media & Marketing Secretary** – DIU ICEC
+- **Duke of Edinburgh’s Award** – Bronze • Silver • Gold
+- **Art Competition (Senior Category)** – 1st Runner‑Up, 7th Inter School Bangla Olympiad 2018
 
 ---
 
