@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E711F7&width=435&lines=Kazi+Rahima+Ahmed;AI+%26+IoT+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E711F7&center=true&vCenter=true&width=435&lines=Kazi+Rahima+Ahmed;AI+%26+IoT+Researcher)](https://git.io/typing-svg)
 
 # 👨‍💻 Kazi Rahima Ahmed
 
@@ -6,7 +6,9 @@
 
 ### 👋 About Me
 
-I'm Kazi Rahima Ahmed, a final-year Information & Communication Engineering student with a strong interest in Artificial Intelligence and intelligent systems. I'm on a path to becoming an AI engineer by learning the core tools, building practical projects, and exploring how AI can solve real-world problems. I'm dedicated to building innovative solutions that address real-world challenges, as demonstrated by my award-winning projects in smart irrigation, NLP-powered chatbots, and classroom automation. Currently, I'm actively seeking R&D or Software Engineering roles at cutting-edge tech firms where I can apply my skills and contribute to impactful AI advancements.
+I'm Kazi Rahima Ahmed, a passionate tech enthusiast and final-year Information & Communication Engineering student at DIU. I specialize in building AI-powered systems, automation projects, and IoT-based solutions that solve real-world problems. I'm dedicated to building innovative solutions that address real-world challenges, as demonstrated by my award-winning projects in smart irrigation, NLP-powered chatbots, and classroom automation. Currently, I'm actively seeking R&D or Software Engineering roles at cutting-edge tech firms where I can apply my skills and contribute to impactful AI advancements.
+
+I also enjoy technical writing, creative digital content, and participating in research-based innovation.
 
 ### 🎯 Current Focus
 
