@@ -87,7 +87,7 @@ Here are some of my key projects that showcase my skills and interests:
 | Project Name | Description | Technologies |
 |---|---|---|
 | [AI-Based Admission Assistant](https://github.com/kazi-rahima-ahmed/AI-Based-Admission-Assistant) | An intelligent chatbot using NLP to automate admission queries, reducing workload by 60-70%. Secured Second Runner-Up at AI Olympiad Bangladesh 2025. | Python, Flask, Streamlit, Firebase, NLP, ML |
-| [Smart Irrigation System](https://github.com/kazi-rahima-ahmed/Smart-Irrigation-System) | AI & IoT-driven system optimizing water usage for sustainable agriculture, funded by Future DIU. | Raspberry Pi, ML, IoT Sensors, Python, C++, MySQL |
+| [Smart Irrigation System](https://github.com/kazi-rahima-ahmed/smart-irrigation-system-ai-iot) | AI & IoT-driven system optimizing water usage for sustainable agriculture, funded by Future DIU. | Raspberry Pi, ML, IoT Sensors, Python, C++, MySQL |
 | [Smart Classroom with Smart Security Attendance System](https://github.com/kazi-rahima-ahmed/Smart-Classroom-Security) | Automated attendance and enhanced security for classrooms, reducing errors by 40%. Awarded Second Runner-Up at DIU Faculty of Engineering Project Showcasing 2024. | Smart Attendance Technology, Security Systems, Automation |
 | [Semi-Self-Driven Garbage Truck](https://github.com/kazi-rahima-ahmed/Semi-Self-Driven-Garbage-Truck) | AI and automation for efficient waste collection route optimization, demonstrated at 4th RoboTech Olympiad 2024. | Automation, ML, Robotics, Waste Management Systems |
 
