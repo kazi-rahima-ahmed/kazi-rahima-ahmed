@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F031F7&center=true&width=435&lines=Kazi+Rahima+Ahmed;AI%2FML%2FIoT+Researcher;Builder+of+Award%E2%80%91Winning+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F031F7&center=true&vCenter=true&width=435&lines=Kazi+Rahima+Ahmed;AI%2FML%2FIoT+Researcher;Builder+of+Award%E2%80%91Winning+Systems)](https://git.io/typing-svg)
 
 # 👨‍💻 Kazi Rahima Ahmed
 
