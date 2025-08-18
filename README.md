@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="<a href="https://i.imghippo.com/files/ZJj8830VH.png" target="_blank" rel="noopener"><img src="https://i.imghippo.com/files/ZJj8830VH.png" alt="Uploaded image on Imghippo" border="0"></a>" alt="Kazi Rahima Ahmed | AI & IoT Engineer" width="100%">
+  <img src="https://www.imghippo.com/i/ZJj8830VH.png" alt="Kazi Rahima Ahmed | AI & IoT Engineer" width="100%">
 </p>
 
 
