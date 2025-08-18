@@ -2,15 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F031F7&center=true&vCenter=true&width=600&lines=Kazi+Rahima+Ahmed;AI%2FML%2FIoT+Engineer;Builder+of+Award%E2%80%91Winning+Systems;Turning+Ideas+into+Real‑World+Solutions)](https://git.io/typing-svg)
 
 # 👨‍💻 Kazi Rahima Ahmed  
-🎓 ICE Undergrad @ Daffodil International University • 🔬 R&D in Agentic AI, IoT & Cloud • 🏆 Builder of Funded, Award‑Winning Systems
+
+> *"Becoming an AI Engineer, one iteration at a time."*
 
 ---
 
 ## 🚀 About Me  
 Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication Engineering student at Daffodil International University (DIU) and a Bangladeshi engineer‑in‑the‑making, passionate about creating AI‑powered, IoT‑driven systems that deliver real‑world impact. My funded and award‑winning work spans smart irrigation, NLP‑powered chatbots, and classroom security automation. I’m now seeking R&D or Software Engineering roles at forward‑thinking tech firms, where I can apply my skills to meaningful AI advancements. Beyond engineering, I enjoy technical writing, creative digital content, and research‑driven innovation. 
-
-
-> *"Becoming an AI Engineer, one iteration at a time."*
 
 ---
 
