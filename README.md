@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://www.imghippo.com/i/ZJj8830VH.png" alt="Kazi Rahima Ahmed | AI & IoT Engineer" width="100%">
+  <img src="[![Linked-In-Profile-Banner-2-Meghna.png](https://i.postimg.cc/cHtFnVxV/Linked-In-Profile-Banner-2-Meghna.png)](https://postimg.cc/phxQNcnZ)" width="100%">
 </p>
 
 
