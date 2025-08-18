@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 About Me  
-Hi, I’m **Kazi Rahima Ahmed** — a Bangladeshi engineer‑in‑the‑making, passionate about designing **AI‑powered, IoT‑driven systems** that solve real‑world problems. I'm dedicated to building innovative solutions that address real-world challenges, as demonstrated by my award-winning projects in smart irrigation, NLP-powered chatbots, and classroom automation. Currently, I'm actively seeking R&D or Software Engineering roles at cutting-edge tech firms where I can apply my skills and contribute to impactful AI advancements.
-I also enjoy technical writing, creative digital content, and participating in research-based innovation.
+Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication Engineering student at Daffodil International University (DIU) and a Bangladeshi engineer‑in‑the‑making, passionate about creating AI‑powered, IoT‑driven systems that deliver real‑world impact. My funded and award‑winning work spans smart irrigation, NLP‑powered chatbots, and classroom security automation. I’m now seeking R&D or Software Engineering roles at forward‑thinking tech firms, where I can apply my skills to meaningful AI advancements. Beyond engineering, I enjoy technical writing, creative digital content, and research‑driven innovation. 
 
 
 > *"Becoming an AI Engineer, one iteration at a time."*
