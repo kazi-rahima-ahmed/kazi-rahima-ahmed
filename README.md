@@ -11,7 +11,7 @@
 
 </div>
 
-# 👨‍💻 Kazi Rahima Ahmed  
+# 👩‍💻 Kazi Rahima Ahmed  
 
 > *"Becoming an AI Engineer, one iteration at a time."*
 
