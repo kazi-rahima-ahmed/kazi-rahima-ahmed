@@ -13,12 +13,16 @@
 
 # 👩‍💻 Kazi Rahima Ahmed  
 
-> *"Becoming an AI Engineer, one iteration at a time."*
+> *"Engineering Resilience with AI, IoT & Embedded Systems."*
 
 ---
 
 ## 🚀 About Me  
-Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication Engineering student at Daffodil International University (DIU) and a Bangladeshi engineer‑in‑the‑making, passionate about developing AI‑powered, IoT‑driven systems that deliver real‑world impact. My funded and award‑winning work spans smart irrigation, NLP‑powered chatbots, and classroom security automation. I’m now seeking R&D or Software Engineering roles at forward‑thinking tech firms, where I can apply my skills to meaningful AI advancements. Beyond engineering, I enjoy technical writing, creative digital content, and research‑driven innovation.
+Hi, I’m **Kazi Rahima Ahmed** — a final-year Information & Communication Engineering student at Daffodil International University (DIU), Bangladesh. I build intelligent systems that integrate **AI, IoT, and embedded technologies** to solve real-world infrastructure challenges.
+
+I’m currently channeling **3+ years of experience** in operations, IT support, and strategic content into modular, scalable tech — with a focus on **smart automation**, **resilience engineering**, and **open-source execution**.
+
+Beyond engineering, I enjoy **technical writing**, **creative digital content**, and **research-driven innovation**—skills I actively apply to documenting projects, leading outreach, and translating complex systems into accessible solutions.
 
 ---
 
