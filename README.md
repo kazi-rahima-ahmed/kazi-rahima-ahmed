@@ -131,7 +131,7 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
 - **Smart Classroom with Smart Attendance Security System** – *Multiple Awards*:  
   - 🥈 **1st Runner‑Up**, Engineers’ Day Celebration 2025 — Faculty of Engineering, DIU  
   - 🥉 **2nd Runner‑Up**, Central Project Showcasing 2024 — Faculty of Graduate Studies, DIU  
-- **Leadership** – Media & Marketing Secretary, DIU ICEC  
+- **Leadership** – Media & Marketing Secretary, DIU ICEC (led graphics design and managed social media campaigns to boost event visibility and engagement) 
 - **International Awards** – Duke of Edinburgh’s Award *(Bronze • Silver • Gold)*  
 - **Creative Achievement** – 1st Runner‑Up, Art Competition *(Senior Category)*, 7th Inter School Bangla Olympiad 2018
 
