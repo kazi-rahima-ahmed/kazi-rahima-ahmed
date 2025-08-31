@@ -32,62 +32,80 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
 
 ## 🧠 Tech Stack
 
-### AI & ML  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![scikit-image](https://img.shields.io/badge/scikit--image-5586A4?style=for-the-badge)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Gradio](https://img.shields.io/badge/Gradio-3F3F3F?style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<!-- AI & ML -->
+<h4>AI & ML</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/scikit--image-5586A4?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Gradio-3F3F3F?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" style="margin-right:5px"/>
+</p>
 
-### Vector DBs & Agents  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![DeepAI](https://img.shields.io/badge/DeepAI-000000?style=for-the-badge)
+<!-- Vector DBs & Agents -->
+<h4>Vector DBs & Agents</h4>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/DeepAI-000000?style=for-the-badge" style="margin-right:5px"/>
+</p>
 
-### Cloud & Infra  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
-![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge)  
-![CCNA](https://img.shields.io/badge/CCNA_Fundamentals-1D4F91?style=for-the-badge)  
-![Network Protocols](https://img.shields.io/badge/Network_Protocols-3C3C3C?style=for-the-badge)
+<!-- Cloud & Infra -->
+<h4>Cloud & Infra</h4>
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/CCNA_Fundamentals-1D4F91?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Network_Protocols-3C3C3C?style=for-the-badge" style="margin-right:5px"/>
+</p>
 
-### Dev Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)  
-![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-![NodeMCU](https://img.shields.io/badge/NodeMCU-1B1B1B?style=for-the-badge)  
-![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-3C3C3C?style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<!-- Dev Tools -->
+<h4>Dev Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/NodeMCU-1B1B1B?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/IoT_Sensors-3C3C3C?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:5px"/>
+</p>
 
-### Mobile & UI  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!-- Mobile & UI -->
+<h4>Mobile & UI</h4>
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="margin-right:5px"/>
+</p>
 
-### Creative & Automation  
-![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<!-- Creative & Automation -->
+<h4>Creative & Automation</h4>
+<p>
+  <img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" style="margin-right:5px"/>
+</p>
 
 ---
 
