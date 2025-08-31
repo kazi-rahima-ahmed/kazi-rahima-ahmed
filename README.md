@@ -29,7 +29,7 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
 
 ## 🎯 Current Focus  
 - 🔭 Building **Smart Irrigation System** — DIU‑funded commercial prototype  
-- 📚 Deepening expertise in **Python, Machine Learning & IoT**  
+- 📚 Deepening expertise in **Python, Machine Learning, Flutter, & IoT**  
 - ⚙️ Experimenting with **LangChain, OpenAI, Groq API, Vector DBs**  
 - ☁️ Expanding skills in **Cloud, Deployment & AI App Hosting**
 
