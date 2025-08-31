@@ -13,7 +13,7 @@
 
 # 👩‍💻 Kazi Rahima Ahmed  
 
-> *"Engineering Resilience with AI, IoT & Embedded Systems."*
+> *"Engineering Resilience with AI, IoT, & Embedded Systems."*
 
 ---
 
