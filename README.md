@@ -84,7 +84,6 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" style="margin-right:5px"/>
-  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin-right:5px"/>
