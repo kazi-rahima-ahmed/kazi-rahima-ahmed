@@ -87,8 +87,6 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
   <img src="https://img.shields.io/badge/IoT_Sensors-3C3C3C?style=for-the-badge" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge" style="margin-right:5px"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" style="margin-right:5px"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:5px"/>
 </p>
 
