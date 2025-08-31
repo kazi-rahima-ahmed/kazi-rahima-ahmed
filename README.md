@@ -46,6 +46,7 @@ Hi, I’m **Kazi Rahima Ahmed** — a final‑year Information & Communication E
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Gradio-3F3F3F?style=for-the-badge" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" style="margin-right:5px"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" style="margin-right:5px"/>
 </p>
 
 <!-- Vector DBs & Agents -->
